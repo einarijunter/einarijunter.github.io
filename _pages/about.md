@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/header2.jpg"
+  image: "assets/images/header2.jpg"
 ---
 
 I'm Business Analytics student from Lappeenranta University of Technology with experience in R and Python for machine learning, exploratory analysis and visualization. Passionate about bringing data-first culture into management and leadership.

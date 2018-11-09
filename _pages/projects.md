@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Projects by Tags"
 author_profile: true
 header:
-  image: "/images/header1.jpg"
+  image: "assets/images/header1.jpg"
 ---
 
 {% include base_path %}
