@@ -4,7 +4,7 @@ date: 2018-11-11
 tags: [formula1, visualization]
 header:
   image: "/assets/images/raikkonen/kimi.jpg"
-excerpt: "Formula 1, Visualization"
+excerpt: "Formula1, Visualization"
 ---
 
 
